@@ -1,6 +1,6 @@
 <h1 align="center">
     <p>Cuphead Game - Readme</p>
-    <img src="img.png">
+    <img src="texturas/readme/protagonista.png">
     <p>Desafie os limites e prepare-se para mergulhar em um universo épico de desafios e conquistas!</p>
 </h1>
 
@@ -15,7 +15,7 @@ Tal projeto é um trabalho que foi desenvolvido para a disicplina de Computaçã
 <p align="center">
     Clique na imagem abaixo e assista um pequeno vídeo mostrando o jogo
     <a href="https://www.youtube.com/watch?v=ffKkPrkV4sM">
-        <img src="foto_apresentacao.jpeg" alt="Vídeo de Apresentação do Jogo">
+        <img src="texturas/readme/preview.jpeg" alt="Vídeo de Apresentação do Jogo">
     </a>
 </p>
 
